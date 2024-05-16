@@ -1,0 +1,23 @@
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+
+
+### Java ###
+# Compiled class file
+*.class
+
+# Package Files #
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
